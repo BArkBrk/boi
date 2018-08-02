@@ -1,1 +1,9 @@
-
+echo "# meme" >> README.md
+git init
+git add README.md
+git commit -m "NO Swears Pls?"
+git remote add origin https://github.com/BArkBrk/meme.git
+git push -u origin master
+git init
+git add command.md
+git commit "WTF NO SWEARS"
